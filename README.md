@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhushan" alt="bhushan" /></a> </p>
 
+- 🔭 I am currently exploring career opportunities as a data analyst, where I can utilize my skills in Python, SQL, Excel, and Power BI to provide valuable insights and support data-driven decision-making. I am excited to join a forward-thinking team where I can apply my analytical expertise and contribute to impactful projects. [bhhd](dbd)
+
 - 👨‍💻 All of my projects are available at [PortFolio](PortFolio)
 
 - 📫 How to reach me **bhushanjg14@gmail.com**
