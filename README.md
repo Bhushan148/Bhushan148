@@ -29,11 +29,14 @@
 &nbsp;<a href="https://www.linkedin.com/in/bhushan-gawali-97b645233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="y" height="30" width="40" /></a>
 &nbsp;<a href="https://www.facebook.com/bhushan.gawali.568" alt="y" height="30" width="40" /></a>
 &nbsp;<a href="http://instagram.com/bhushangawali_148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="y" height="30" width="40" /></a>
-&nbsp;<a href="https://leetcode.com/problemset/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="y" height="30" width="40" /></a>
-&nbsp;<a href="https://datalemur.com/profile" target="blank"><img align="center" src="https://datalemur.com/_next/image?url=%2Flogo.png&w=256&q=75" alt="y" height="26" width="140" /></a>
 &nbsp;&nbsp;&nbsp;<a href="tel:7743927365" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/552/552489.png" alt="y" height="30" width="30" /></a>
 </p>
 
+<h3 align="left">Discover More About My Work:</h3>
+&nbsp;<a href="https://leetcode.com/u/bhushanjg14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="y" height="30" width="40" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://datalemur.com/profile" target="blank"><img align="center" src="https://datalemur.com/_next/image?url=%2Flogo.png&w=256&q=75" alt="y" height="26" width="140" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/profile/bhushanjg14" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="y" height="26" width="140" /></a>
+<a href="https://www.kaggle.com/bhushangawali148" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="y" height="26" width="140" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -71,6 +74,13 @@
 - <b>Other Skills :</b> Web Scraping
 - <b>Data Analysis :</b> Statistical analysis, exploratory data analysis (EDA), data cleaning, handling outliers
 
+<h3 align="left">Explore My Professional Journey : </h3>
+ <b> I am an accomplished data analyst actively engaged on various professional platforms:</b>
+
+> - <b>LeetCode:</b> Enhances coding and problem-solving skills.
+> - <b>DataLemur:</b> Focuses on data science and machine learning challenges.
+> - <b>HackerRank:</b> Excels in competitive programming.
+> - <b>Kaggle:</b> Participates in data science competitions, showcasing data manipulation and visualization skills.
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhushan148&show_icons=true&locale=en" alt="bhushan148" /></p>
