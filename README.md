@@ -4,10 +4,14 @@
 
 Hello! I’m **Bhushan Gawali**, a **Data Analyst** with a passion for transforming complex data into actionable insights. I specialize in:
 
-- **Python** 🐍
-- **SQL** 💾
-- **Power BI** 📊
-- **Excel** 📑
+- **🛠️ SQL**
+- **🐍 Python**
+- **📊 Power BI**
+- **📑 Excel**
+- **📈 Data Analysis**
+- **🖥️ Dashboard Creation**
+- **🔍 Data Visualization**
+- **📉 Forecasting & Statistical Analysis**
 
 I leverage these tools to create interactive dashboards, perform advanced data analysis, and deliver valuable insights. Explore my repositories to see a range of projects showcasing my expertise!
 
@@ -134,6 +138,16 @@ Connect with me through the following channels:
 ### 16. [**GitHub Profile**](https://github.com/Bhushan148) 🚀
    - **Description**: Welcome to my GitHub profile! 🚀 I’m Bhushan Gawali, a Data Analyst with expertise in Python 🐍, SQL 💾, and Power BI 📊. Explore my repositories to see a range of projects that highlight my skills in data analysis.
    - **Key Features**: Overview of my expertise and projects.
+
+---
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Bhushan148&color=blue&style=flat)
+<a href="https://github.com/Bhushan148"><img src="https://img.shields.io/github/stars/Bhushan148?style=flat" alt="Stars"/></a>
+<a href="https://github.com/Bhushan148"><img src="https://img.shields.io/github/contributors/Bhushan148/Bhushan148?color=orange" alt="Contributors"/></a>
+<a href="https://github.com/Bhushan148"><img src="https://img.shields.io/github/followers/Bhushan148?style=flat" alt="Followers"/></a>
+<a href="https://twitter.com/bhushangawali"><img src="https://img.shields.io/twitter/follow/bhushangawali?style=social" alt="Twitter Follow"/></a>
+<a href="https://github.com/Bhushan148"><img src="https://img.shields.io/github/watchers/Bhushan148/Bhushan148?style=flat" alt="Watchers"/></a>
 
 ---
 
