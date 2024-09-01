@@ -1,26 +1,59 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 🚀
 
-<h1 align="center">I'm Bhushan Gawali</h1>
-<h3 align="center">A Passionate Data Analyst from India</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhushan148&label=Profile%20views&color=0e75b6&style=flat" alt="bhushan148" />
-</p>
+I’m **Bhushan Gawali**, a Data Analyst with expertise in **Python** 🐍, **SQL** 💾, and **Power BI** 📊. Explore my repositories to see a range of projects that showcase my skills in data analysis, visualization, and more. 
 
 ---
 
-### 👨‍💻 About Me
+## 🌟 Projects
 
-I am a dedicated **Data Analyst** with expertise in **Python, SQL, Power BI, and Excel**. I excel in transforming data into actionable insights that drive business decisions. I am committed to continuous learning and taking on challenging projects that push the boundaries of data analysis.
+### [Portfolio-Bhushan-Gawali](https://github.com/Bhushan148/Portfolio-Bhushan-Gawali)
+Explore my portfolio to view a collection of my data analysis projects. This repository highlights my expertise in Python 🐍, SQL 💾, Power BI 📊, and Excel 📑. Dive into detailed case studies and interactive visualizations.
 
-- 🔭 Currently focused on **SQL and Python projects**, as well as **Power BI dashboards**.
-- 🌱 Continuously expanding my knowledge in **Data Analytics**.
-- 📫 **Reach out**: [bhushanjg14@gmail.com](mailto:bhushanjg14@gmail.com) | [WhatsApp](http://wa.me/+917743927365)
-- 📝 [View my Resume](https://your-resume-link.com) | [Explore my Portfolio](https://bhushan148.github.io/Portfolio-Bhushan-Gawali/)
+### [Northwind-Sales-Analysis](https://github.com/Bhushan148/Northwind-Sales-Analysis)
+A data-driven project that uses SQL and Python 🐍 to create an interactive dashboard analyzing sales performance and customer trends from the Northwind database. 
+
+### [Smartphone-Market-Insights-Analysis-Project](https://github.com/Bhushan148/Smartphone-Market-Insights-Analysis-Project)
+Analyzes smartphone market trends and patterns using SQL and Python. 🔍 Evaluates key aspects such as price distribution 💸, user ratings ⭐, and more.
+
+### [Retail-Sale-Dashboard-Project](https://github.com/Bhushan148/Retail-Sale-Dashboard-Project)
+Creates a comprehensive Retail Sale Dashboard using Power BI and MySQL to visualize 🛒 retail sales data, providing insights into 📈 sales trends and key metrics.
+
+### [Web-scraping](https://github.com/Bhushan148/Web-scraping)
+Focuses on web scraping using Python libraries like Requests and BeautifulSoup 🐍. Extracts and structures data into tables using Pandas for analysis.
+
+### [Data-Entry-Form-Excel](https://github.com/Bhushan148/Data-Entry-Form-Excel)
+Creates a dynamic registration form in Excel, featuring dependent dropdown lists 📋, functional macros ⚙️, and protected sheets 🔒 to streamline data collection.
+
+### [Forecasting-in-Excel](https://github.com/Bhushan148/Forecasting-in-Excel)
+Utilizes Excel 📊 to forecast YouTube views 📈 for the next 7 days using three methods: FORECAST Function 📉, Graph Trendlines 📈, and Forecast Sheet Tool 📅.
+
+### [Bank-Loan-Analysis](https://github.com/Bhushan148/Bank-Loan-Analysis)
+Involves importing data into SQL 💾, running queries, and visualizing results 📊 in Power BI dashboards 📈. Includes three dashboards: Summary, Overview, and Details.
+
+### [Sales-Dashboard-Excel](https://github.com/Bhushan148/Sales-Dashboard-Excel)
+Showcases a comprehensive Sales Dashboard in Excel, providing insightful visualizations and data-driven insights into sales performance across various categories.
+
+### [Bank-Loan-Report-Dashboard-Excel](https://github.com/Bhushan148/Bank-Loan-Report-Dashboard-Excel)
+A fully automated Excel 📊 dashboard designed to analyze and visualize key metrics of a bank's loan portfolio, providing insights into loan applications and funding.
+
+### [IPL-Scorecard-Points-Table-Dashboard](https://github.com/Bhushan148/IPL-Scorecard-Points-Table-Dashboard)
+Provides real-time visualizations of IPL scorecards and standings using Power BI. Pulls live data from the Cricbuzz API for up-to-date insights.
+
+### [Library-Management-System](https://github.com/Bhushan148/Library-Management-System)
+Involves designing and managing a library database using SQL. Includes setting up tables for branches, employees, and books, and performing CRUD operations.
+
+### [IPL-Stats-Analysis](https://github.com/Bhushan148/IPL-Stats-Analysis)
+Explores IPL data to analyze team and player performances. Highlights include match results, highest scores, and venue-specific performances using charts.
+
+### [Coffee-Shop-Sales-Analysis](https://github.com/Bhushan148/Coffee-Shop-Sales-Analysis)
+Analyzes coffee shop sales performance using SQL for data extraction and Power BI for visualization. Focuses on sales trends, order patterns, and more.
+
+### [Olympics-Performance-Analytics](https://github.com/Bhushan148/Olympics-Performance-Analytics)
+Analyzes the 2024 Olympic Games focusing on athlete performance, medal distribution, and country rankings using Power BI and Python.
 
 ---
 
-### 🛠️ Technical Skills
+## 📈 Technical Skills
 
 - **Programming Languages**: Python, SQL
 - **Data Visualization**: Power BI, Seaborn, Matplotlib
@@ -31,69 +64,4 @@ I am a dedicated **Data Analyst** with expertise in **Python, SQL, Power BI, and
 
 ---
 
-### 🌟 Key Achievements
-
-- **Developed Advanced Power BI Dashboards**: Created interactive dashboards to visualize IPL scorecards and bank loan data, enhancing business insights.
-- **Innovative Data Analysis Projects**: Conducted thorough analyses using Python and SQL, leading to actionable insights and strategic recommendations.
-- **Strong Analytical Skills**: Successfully managed complex datasets, conducted statistical analysis, and visualized data trends to support decision-making.
-
----
-
-### 🏆 Projects
-
-Here are some of the projects I’ve worked on:
-
-- **[IPL Scorecard/Points Table Dashboard](https://github.com/Bhushan148/IPL-Scorecard-Points-Table-Dashboard)**: Developed a Power BI dashboard for IPL scorecards and points tables.
-- **[Bank Loan Analysis](https://github.com/Bhushan148/Bank-Loan-Analysis)**: Analyzed bank loan data with SQL and Power BI, providing deep insights.
-- **[Northwind Sales Analysis](https://github.com/Bhushan148/Northwind-Sales-Analysis)**: Extracted and visualized key insights from the Northwind dataset using SQL and Python.
-- **[IPL Stats Analysis](https://github.com/Bhushan148/IPL-Stats-Analysis)**: Evaluated IPL cricket data, showcasing team and player performances through Python libraries.
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://x.com/Bhushan58619812?t=ypTn9S1wC7tqCiEE087AZg&s=08" target="_blank">Twitter</a> |
-  <a href="https://www.linkedin.com/in/bhushan-gawali-97b645233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">LinkedIn</a> |
-  <a href="https://www.facebook.com/bhushan.gawali.568" target="_blank">Facebook</a> |
-  <a href="http://instagram.com/bhushangawali_148" target="_blank">Instagram</a> |
-  <a href="tel:7743927365" target="_blank">Phone</a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhushan148&show_icons=true&locale=en&theme=dark" alt="bhushan148" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan148&theme=dark" alt="bhushan" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhushan148&show_icons=true&locale=en&layout=compact&theme=dark" alt="bhushan" />
-</p>
-
----
-
-### 💼 Explore More About My Work
-
-- **LeetCode**: Enhancing coding and problem-solving skills. [Profile](https://leetcode.com/u/bhushanjg14/)
-- **DataLemur**: Focused on data science and machine learning challenges. [Profile](https://datalemur.com/profile)
-- **HackerRank**: Excelling in competitive programming. [Profile](https://www.hackerrank.com/profile/bhushanjg14)
-- **Kaggle**: Participating in data science competitions, showcasing data manipulation and visualization skills. [Profile](https://www.kaggle.com/bhushanjg14)
-
----
-
-### 📜 Certifications
-
-- **Data Analysis and Visualization with Python** - [Coursera](https://www.coursera.org/learn/python-data-analysis)
-- **Advanced SQL for Data Scientists** - [DataCamp](https://www.datacamp.com/courses/advanced-sql-for-data-scientists)
-
----
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/a6baf8f6221d30650a9b2e58910f0ab582fc2641ef838b769b6b2b548f9c1614/68747470733a2f2f7777772e7369632e74756e6e6c2e6e65742e636f6d2f6469762d616c6c2d6172652f616c6c2d706f6c6c2e706e67" alt="Thank You" width="200"/>
-</p>
+Feel free to explore my repositories and connect with me for any questions or collaborations!
