@@ -53,10 +53,10 @@ I am actively seeking a **Data Analyst** position and am available immediately. 
 
 Connect with me through the following channels:
 
-- **Email**: [📧](mailto:DK2111@digikull.com)
-- **LinkedIn**: [🔗](https://www.linkedin.com/in/bhushan-gawali-97b645233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **WhatsApp**: [💬](http://Wa.me/+917743927365)
-- **Instagram**: [📸](http://instagram.com/bhushangawali_148)
+- **📧**: [Email](mailto:DK2111@digikull.com)
+- **🔗**: [LinkedIn](https://www.linkedin.com/in/bhushan-gawali-97b645233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **💬**: [WhatsApp](http://Wa.me/+917743927365)
+- **📸**: [Instagram](http://instagram.com/bhushangawali_148)
 
 ---
 
